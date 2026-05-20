@@ -1,4 +1,4 @@
-import TodoForm from "./ToDoForm.tsx";
+import TodoForm from "./TodoForm.tsx";
 import {useRef} from "react";
 
 const TodoApp = () => {

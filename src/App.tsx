@@ -1,5 +1,5 @@
 import Layout from "./shared/layout/Layout"
-import TodoApp from "./features/todo/ToDoApp.tsx";
+import TodoApp from "./features/todo/TodoApp.tsx";
 
 function App() {
 
