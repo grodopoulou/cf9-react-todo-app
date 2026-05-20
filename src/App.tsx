@@ -1,13 +1,14 @@
-import {Trash2} from "lucide-react";
+import Layout from "./shared/layout/Layout"
 
 function App() {
 
-
-  return (
-    <>
-      <Trash2 />
-    </>
-  )
+    return (
+        <>
+            <Layout>
+                <h1>Main Content</h1>
+            </Layout>
+        </>
+    )
 }
 
 export default App
